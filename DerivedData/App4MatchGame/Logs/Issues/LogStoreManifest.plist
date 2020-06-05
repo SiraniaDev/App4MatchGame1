@@ -34,6 +34,34 @@
 			<key>uniqueIdentifier</key>
 			<string>0C60636F-9B81-4959-B093-CC09B05BDF76</string>
 		</dict>
+		<key>C603F72E-81D5-4E07-8B59-373064C23219</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>C603F72E-81D5-4E07-8B59-373064C23219.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>signature</key>
+			<string>App4MatchGame-fzyhkivpjkfzolhiarkxsurrqejp</string>
+			<key>timeStartedRecording</key>
+			<real>613064377.78420401</real>
+			<key>timeStoppedRecording</key>
+			<real>613064377.96156704</real>
+			<key>title</key>
+			<string>Build target App4MatchGame</string>
+			<key>uniqueIdentifier</key>
+			<string>C603F72E-81D5-4E07-8B59-373064C23219</string>
+		</dict>
 	</dict>
 	<key>preserveOldLogs</key>
 	<true/>

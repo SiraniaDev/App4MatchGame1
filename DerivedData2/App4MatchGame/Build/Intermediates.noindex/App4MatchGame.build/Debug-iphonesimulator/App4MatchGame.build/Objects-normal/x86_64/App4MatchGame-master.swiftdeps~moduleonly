@@ -1,0 +1,11 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "ce1a8b0c6c637473216c3009130fb2a0"
+build_time: [1591371633, 867831000]
+inputs:
+  "/Users/nadiamettioui/Documents/App4MatchGame1/App4MatchGame/View controllers/ViewController.swift": [1591371374, 945857937]
+  "/Users/nadiamettioui/Documents/App4MatchGame1/App4MatchGame/SoundManager.swift": [1591371374, 944402057]
+  "/Users/nadiamettioui/Documents/App4MatchGame1/App4MatchGame/Model/Card.swift": [1591371374, 930790848]
+  "/Users/nadiamettioui/Documents/App4MatchGame1/App4MatchGame/SceneDelegate.swift": [1591371374, 931775245]
+  "/Users/nadiamettioui/Documents/App4MatchGame1/App4MatchGame/AppDelegate.swift": [1591371374, 835061546]
+  "/Users/nadiamettioui/Documents/App4MatchGame1/App4MatchGame/View controllers/CardCollectionViewCell.swift": [1591371374, 945202804]
+  "/Users/nadiamettioui/Documents/App4MatchGame1/App4MatchGame/Model/CardModel.swift": [1591371374, 931480805]
