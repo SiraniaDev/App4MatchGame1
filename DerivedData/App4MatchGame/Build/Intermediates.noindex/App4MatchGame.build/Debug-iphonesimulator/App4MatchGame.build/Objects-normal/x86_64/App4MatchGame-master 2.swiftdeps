@@ -1,0 +1,11 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "b601fd00bc4f9f1a0c5c6fe907fb9e69"
+build_time: [1589120864, 831729000]
+inputs:
+  "/Users/nadiamettioui/Desktop/PortoFolio 2020/App4MatchGame/App4MatchGame/View controllers/ViewController.swift": [1588416613, 162633033]
+  "/Users/nadiamettioui/Desktop/PortoFolio 2020/App4MatchGame/App4MatchGame/SoundManager.swift": [1588416806, 484169360]
+  "/Users/nadiamettioui/Desktop/PortoFolio 2020/App4MatchGame/App4MatchGame/Model/Card.swift": [1588415522, 539876999]
+  "/Users/nadiamettioui/Desktop/PortoFolio 2020/App4MatchGame/App4MatchGame/SceneDelegate.swift": [1587387319, 159703116]
+  "/Users/nadiamettioui/Desktop/PortoFolio 2020/App4MatchGame/App4MatchGame/AppDelegate.swift": [1588415522, 488514922]
+  "/Users/nadiamettioui/Desktop/PortoFolio 2020/App4MatchGame/App4MatchGame/View controllers/CardCollectionViewCell.swift": [1588415522, 545591326]
+  "/Users/nadiamettioui/Desktop/PortoFolio 2020/App4MatchGame/App4MatchGame/Model/CardModel.swift": [1588415522, 540239348]
