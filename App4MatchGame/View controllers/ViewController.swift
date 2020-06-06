@@ -30,7 +30,7 @@ class ViewController: UIViewController,UICollectionViewDelegate,UICollectionView
         super.viewDidLoad()
         // Call the getCards method of the Card model
         cardArray = self.model.getCard()
-        
+        var testbitreise = "okokok"
         collectionView.dataSource = self
         collectionView?.delegate = self
         

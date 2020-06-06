@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>7039C712-B40A-4B42-BE95-A07066106E18</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7039C712-B40A-4B42-BE95-A07066106E18.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>App4MatchGame project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>App4MatchGame</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build App4MatchGame</string>
+			<key>timeStartedRecording</key>
+			<real>613118602.79142106</real>
+			<key>timeStoppedRecording</key>
+			<real>613118627.382851</real>
+			<key>title</key>
+			<string>Build App4MatchGame</string>
+			<key>uniqueIdentifier</key>
+			<string>7039C712-B40A-4B42-BE95-A07066106E18</string>
+		</dict>
+		<key>8FAF9482-14C0-4289-ADC2-9F0657D9AE28</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8FAF9482-14C0-4289-ADC2-9F0657D9AE28.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>App4MatchGame project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>App4MatchGame</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build App4MatchGame</string>
+			<key>timeStartedRecording</key>
+			<real>613064499.15564704</real>
+			<key>timeStoppedRecording</key>
+			<real>613064501.87275004</real>
+			<key>title</key>
+			<string>Build App4MatchGame</string>
+			<key>uniqueIdentifier</key>
+			<string>8FAF9482-14C0-4289-ADC2-9F0657D9AE28</string>
+		</dict>
+		<key>A05BB829-EFC3-4C00-99AA-B96FB8787996</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A05BB829-EFC3-4C00-99AA-B96FB8787996.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>App4MatchGame project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>App4MatchGame</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build App4MatchGame</string>
+			<key>timeStartedRecording</key>
+			<real>613118529.393152</real>
+			<key>timeStoppedRecording</key>
+			<real>613118559.76941299</real>
+			<key>title</key>
+			<string>Build App4MatchGame</string>
+			<key>uniqueIdentifier</key>
+			<string>A05BB829-EFC3-4C00-99AA-B96FB8787996</string>
+		</dict>
+		<key>A6A74FDB-4747-4258-B113-B0025B890D0A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A6A74FDB-4747-4258-B113-B0025B890D0A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>App4MatchGame project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>App4MatchGame</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build App4MatchGame</string>
+			<key>timeStartedRecording</key>
+			<real>613118496.94320405</real>
+			<key>timeStoppedRecording</key>
+			<real>613118497.13470995</real>
+			<key>title</key>
+			<string>Build App4MatchGame</string>
+			<key>uniqueIdentifier</key>
+			<string>A6A74FDB-4747-4258-B113-B0025B890D0A</string>
+		</dict>
+		<key>C753D317-479B-46F2-8C85-379A1A569ADD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C753D317-479B-46F2-8C85-379A1A569ADD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>App4MatchGame project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>App4MatchGame</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build App4MatchGame</string>
+			<key>timeStartedRecording</key>
+			<real>613118509.61381197</real>
+			<key>timeStoppedRecording</key>
+			<real>613118509.74571097</real>
+			<key>title</key>
+			<string>Build App4MatchGame</string>
+			<key>uniqueIdentifier</key>
+			<string>C753D317-479B-46F2-8C85-379A1A569ADD</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
